@@ -47,7 +47,7 @@ window.addEventListener('scroll', function() {
         lastDialogShown = null;
     }
     if (marioPosition >= maxMarioMovement - 100) { 
-        window.location.href = "";
+        window.location.href = "https://heydoublepointtoseewhotohire.click/cv_doublepoint.pdf";
     }
 });
 
