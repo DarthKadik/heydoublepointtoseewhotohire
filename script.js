@@ -47,7 +47,7 @@ window.addEventListener('scroll', function() {
         lastDialogShown = null;
     }
     if (marioPosition >= maxMarioMovement - 100) { 
-        window.location.href = "https://kodaformemberbecauseheis.fun/memberApplication.pdf";
+        window.location.href = "";
     }
 });
 
